@@ -15,6 +15,8 @@ This repository contains various practice projects and exercises from a web deve
 
 ## 📂 Repository Structure
 📦 web-dev
+
+
  ┣ 📂 projects        # Mini-projects and practice assignments
 
 
