@@ -13,14 +13,24 @@ This repository contains various practice projects and exercises from a web deve
 - Cloud Technologies
 - Authentication & Security
 
-## 📂 Repository Structure📦 web-dev-bootcamp
+## 📂 Repository Structure
+📦 web-dev
  ┣ 📂 projects        # Mini-projects and practice assignments
+
+
  ┣ 📂 exercises       # Coding exercises and challenges
+
+
  ┣ 📂 notes           # Study notes and references
+
+
  ┣ 📜 README.md       # This document🚀 How to UseClone the repository:
 
+
+```
 git clone (https://github.com/yrankineNEU/web-dev.git) to the directory:
 cd web-dev-bootcamp
+```
 Open any folder to explore practice work.
 Run projects locally if applicable (see specific project instructions).
 
