@@ -17,18 +17,15 @@ This repository contains various practice projects and exercises from a web deve
 📦 web-dev
 
 
- ┣ 📂 projects        # Mini-projects and practice assignments
-
-
  ┣ 📂 exercises       # Coding exercises and challenges
 
 
  ┣ 📂 notes           # Study notes and references
 
 
- ┣ 📜 README.md       # This document🚀 How to UseClone the repository:
-
-
+ ┣ 📜 README.md       # This document
+ 
+## 🚀 How to UseClone the repository:
 ```
 git clone (https://github.com/yrankineNEU/web-dev.git) to the directory:
 cd web-dev-bootcamp
@@ -45,9 +42,10 @@ Run projects locally if applicable (see specific project instructions).
 - Express.js
 - MongoDB, 
 - MySQL
-
-## Git & GitHub
-📖 NotesThis repository is for learning and experimentation. Some projects may be incomplete or in progress.
+- Git & GitHub
+  
+## 📖 Notes
+This repository is for learning and experimentation. Some projects may be incomplete or in progress.
 
 ## 📬 Contact
 If you have questions, feel free to reach out via LinkedIn or email at y.rankine1@gmail.com!
